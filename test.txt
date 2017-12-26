@@ -1,1 +1,4 @@
 test.txt
+
+2017-12-26 test git function
+
